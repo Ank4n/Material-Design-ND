@@ -64,12 +64,12 @@
         "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
-        "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml"
-    },
-    {
         "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
+        "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml"
     },
     {
         "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -180,12 +180,12 @@
         "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/fragment_detail.xml"
     },
     {
-        "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
