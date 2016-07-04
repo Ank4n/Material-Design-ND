@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi,armeabi-v7a"
+    abi="x86,x86_64"
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="618015290435902"
+    timestamp="623150786877728"
     token="-2823808508100816536" >
 
     <task
@@ -20,36 +20,19 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="615191020698930" >
+    <artifact
+        location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="622261446999357" >
         <artifact
             location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="615951025569149"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="617401140718642" >
-        <artifact
-            location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="617634964716542" >
-        <artifact
-            location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="617990614989792" >
+    <build timestamp="623150786877728" >
         <artifact
             location="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
-    <build timestamp="618015290435902" />
 
 </instant-run>
