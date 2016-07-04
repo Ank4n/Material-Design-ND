@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_a20bc888ea9bb66875c2bf8dc102fb0810faaf99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_4fcb762e91226ce14bbd490755d704fd88e2e732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_5aa131e958f815a078fcdd8e637f8af376691af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_36499d9f4cf439f5b7a7416b999e83ec5b207b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_902cc28fdf1f3fb734a0ef348aa8573ac55ed0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="77224f5385fc01cfbc17c8cb0577aaaf63dc3a71">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b13066dbb06e9009641062a4fc0fe8904c929c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="1248103b64ae6f99eeb0ad873aa15818eb6e6887">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e90aad1452a098bd76c1b5b6d6ef2ead56a8c755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_424217dfb75f4f91043a171b6ddcfb0c739ccb56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_1772ba2d8d6ed44d467addef3554d37ef9c891d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_f5374b0a0387bb816a775183e717827ef88f3cb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_89d5fe06b9a04c91687b9f9c56bd0ce92c466884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.0.0_af6fd246bf3df0e209876ee859e30176f5a76554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_8cf7fb62b58f069328e3290c70e1129f060b117a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d1e6477d4f530623ac279c8be79d5c7367bb0ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_2552c8fb2ae41853d2c65bab9eba65298caeea3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2130979ca44bbe42774e71f8c8c404cf2546dfea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_e9d4a27361ec19a81222d8b32dab7b69b2594373/classes.dex" />
+    </item>
+
+</items>
