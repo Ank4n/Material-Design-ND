@@ -40,102 +40,7 @@
           <activation />
         </task>
         <projects_view>
-          <tree_state>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":XYZReader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":XYZReader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="build" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="xyzreader" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="build" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-          </tree_state>
+          <tree_state />
         </projects_view>
       </state>
     </system>
@@ -185,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -211,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_detail.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_detail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_detail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="195">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
               <folding>
                 <element signature="e#1038#1069#0" expanded="true" />
                 <element signature="e#1337#1371#0" expanded="true" />
@@ -1866,7 +1771,6 @@
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
@@ -1874,6 +1778,7 @@
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_detail.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
       </list>
     </option>
   </component>
@@ -2034,7 +1939,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Production" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="device.picker.selection" value="Nexus_5_API_23" />
-    <property name="SearchEverywhereHistoryKey" value="dime&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/dimens.xml&#10;frag&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/fragment_detail.xml&#10;ArticleD&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java&#10;Article&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styl&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;color&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/colors.xml&#10;Stri&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/strings.xml&#10;Activity&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styles&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;activi&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/activity_article_detail.xml&#10;sty&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values-v21/styles.xml&#10;colors.&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/colors.xml&#10;Sty&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values-v21/styles.xml&#10;bui&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build.gradle&#10;styles.&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;AndroidMani&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/AndroidManifest.xml&#10;Build.gra&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build.gradle" />
+    <property name="SearchEverywhereHistoryKey" value="list_&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/list_item_article.xml&#10;dime&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/dimens.xml&#10;frag&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/fragment_detail.xml&#10;ArticleD&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java&#10;Article&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styl&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;color&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/colors.xml&#10;Stri&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/strings.xml&#10;Activity&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styles&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;activi&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/layout/activity_article_detail.xml&#10;sty&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values-v21/styles.xml&#10;colors.&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/colors.xml&#10;Sty&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values-v21/styles.xml&#10;bui&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build.gradle&#10;styles.&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/res/values/styles.xml&#10;AndroidMani&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/src/main/AndroidManifest.xml&#10;Build.gra&#9;FILE&#9;file:///Users/ankan/Documents/NanoDegree/xyzreader/XYZReader/build.gradle" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
   </component>
   <component name="RecentsManager">
@@ -2045,7 +1950,7 @@
       <recent name="$PROJECT_DIR$/XYZReader/src/main/res/values-v21" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.&lt;default&gt;">
+  <component name="RunManager" selected="Android Application.XYZReader">
     <configuration default="false" name="xyzreader [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -2422,7 +2327,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1232" height="777" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2441,13 +2346,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25966388" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2775,17 +2680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -2889,8 +2783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="195">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
           <folding>
             <element signature="e#1038#1069#0" expanded="true" />
             <element signature="e#1337#1371#0" expanded="true" />
@@ -2899,6 +2793,17 @@
             <element signature="e#2065#2099#0" expanded="true" />
             <element signature="e#2133#2167#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
